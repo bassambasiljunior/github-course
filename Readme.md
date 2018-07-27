@@ -1,9 +1,14 @@
-# Git Courtse
+# Udemy Git GitHub Course
 
-Arquivo da aula de Git e Github para iniciantes.   
+Plataforma: [UDEMY] (https://www.udemy.com/)
 
-Saiba mais nem [williamjustem.com.br](http://willianjustem.com.br)
+Curso: de Git e Github
+Instrutor: [williamjustem.com.br](http://willianjustem.com.br)
 
-"- git status"
-"- git log"
-"- git diff"
+Tópicos do curso:
+1 - O que é?
+2 - Configurando.
+3 - Essencial do Git.
+4 - Repositórios Remotos.
+5 - Ramificação (Branch).
+6 - Extras.
